@@ -1,4 +1,7 @@
 
+
+# Create your views here.
+# pokemon/views.py
 from django.http import HttpResponse
 
 
